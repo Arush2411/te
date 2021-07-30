@@ -1,0 +1,37 @@
+body
+{
+color: whitesmoke;
+background-color: dodgerblue;
+
+}
+
+.heading
+{
+    font-size: 30px;
+    width: auto;
+}
+
+#camera
+{
+    border-color: black;
+    border-style: ridge;
+    border-width: 5px;
+    height: 300px;
+    width: 350px;
+}
+
+.name_of_objects
+{
+    color: crimson;
+    float: left;
+}
+
+p
+{
+color: darkblue;
+}
+
+#result_object_name , #result_object_accuracy
+{
+    color: crimson;
+}
